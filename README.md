@@ -6,7 +6,9 @@ Also, there is a PDF document in the repository. This document is my explanation
 To run the code, install Python and an IDE such as Pycharm, VS Code, etc.
 
 I personally use Pycharm, here are the links for the software:
+
 Python - https://www.python.org/downloads/ (make sure to download the latest version)
+
 Pycharm - https://www.jetbrains.com/pycharm/download/other.html (if you do not have a license, download the community version).
 
 In my code you will see an all around example of a simple OFDM system.
