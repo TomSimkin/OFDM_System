@@ -1,6 +1,7 @@
 # OFDM_System
- Multicarrier system that is applied in a wide range of wireless transmission systems. 
- Coded in Python, I demonstrate an example of a complete OFDM system.
+Multicarrier system that is applied in a wide range of wireless transmission systems. 
+Coded in Python, I demonstrate an example of a complete OFDM system.
+Also, there is a PDF document in the repository. This document is my explanation of the process itself.
  
 To run the code, install Python and an IDE such as Pycharm, VS Code, etc.
 I personally use Pycharm, here are the links for the software:
