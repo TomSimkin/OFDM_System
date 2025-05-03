@@ -1,16 +1,67 @@
-# OFDM_System
-Multicarrier system that is applied in a wide range of wireless transmission systems. 
-Coded in Python, I demonstrate an example of a complete OFDM system.
-Also, there is a PDF document in the repository. This document is my explanation of the process itself.
- 
-To run the code, install Python and an IDE such as Pycharm, VS Code, etc.
+# 🛰️ OFDM_System
 
-I personally use Pycharm, here are the links for the software:
+This repository contains a full Python implementation of an Orthogonal Frequency-Division Multiplexing (OFDM) system.  
+OFDM is a multicarrier modulation technique widely used in modern wireless communication systems due to its robustness to multipath fading and high spectral efficiency.
 
-Python - https://www.python.org/downloads/ (make sure to download the latest version)
+---
 
-Pycharm - https://www.jetbrains.com/pycharm/download/other.html (if you do not have a license, download the community version).
+## 📁 Repository Contents
 
-In my code you will see an all around example of a simple OFDM system.
+- `main.py` – Python script for simulating OFDM transmission and reception.
+- `OFDM (Orthogonal Frequency-Division Multiplexing) Explanation.pdf` – A detailed explanation of the OFDM system and its implementation.
+- `README.md` – This documentation file.
 
-After running the code, .png files will be added. Check them out to see a visual demonstration of the whole OFDM process.
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.x → [Download Python](https://www.python.org/downloads/)
+- IDE or code editor (e.g. [VS Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/))
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TomSimkin/OFDM_System.git
+   ```
+   
+2. Navigate into the project directory:
+  ```bash
+  cd OFDM_System
+  ```
+
+3. (Optional) Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   Note: Create requirements.txt if your project uses external packages.
+
+## ▶️ Running the Simulation
+
+   Run the main simulation script:
+   ```bash
+   python main.py
+   ```
+   The program generates .png images to visualize each processing stage of the OFDM system, such as modulation, channel simulation, and demodulation.
+
+## 📖 Documentation
+
+For a theoretical background and explanation of each step, refer to the included PDF:
+
+OFDM (Orthogonal Frequency-Division Multiplexing) Explanation.pdf
+   
+## ✨ Features  
+
+- Complete simulation of an OFDM communication system:
+
+- QAM modulation/demodulation
+
+- IFFT/FFT processing
+
+- Cyclic prefix addition and removal
+
+- Step-by-step visualization of signal processing
+
+- Modular, readable code structure
