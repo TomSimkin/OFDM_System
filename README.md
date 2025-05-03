@@ -65,3 +65,9 @@ OFDM (Orthogonal Frequency-Division Multiplexing) Explanation.pdf
 - Step-by-step visualization of signal processing
 
 - Modular, readable code structure
+
+## 📊 OFDM System Diagram
+
+Below is a high-level block diagram of the OFDM transmission and reception process:
+
+![OFDM System Diagram](ofdm_diagram.png)
