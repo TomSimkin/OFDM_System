@@ -20,24 +20,6 @@ OFDM is a multicarrier modulation technique widely used in modern wireless commu
 - Python 3.x → [Download Python](https://www.python.org/downloads/)
 - IDE or code editor (e.g. [VS Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/))
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/TomSimkin/OFDM_System.git
-   ```
-   
-2. Navigate into the project directory:
-  ```bash
-  cd OFDM_System
-  ```
-
-3. (Optional) Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   Note: Create requirements.txt if your project uses external packages.
-
 ## ▶️ Running the Simulation
 
    Run the main simulation script:
